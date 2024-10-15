@@ -6,6 +6,6 @@
 	<div class="wp-block-group">
 		<!-- wp:image {"align":"center","width":"45px","height":"49px","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
 		<figure class="wp-block-image aligncenter size-full is-resized">
-			<img src="/https://sai-lok.github.io/test//wp-content/themes/twentytwentyfour/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in D:\xampp\htdocs\test\wp-content\themes\twentytwentyfour\patterns\page-newsletter-landing.php:20_Stack trace:_#0 {main}_  thrown in <b>D:\xampp\htdocs\test\wp-content\themes\twentytwentyfour\patterns\page-newsletter-landing.php</b> on line <b>20</b><br />"></figure>
+			<img src="https://sai-lok.github.io/test/wp-content/themes/twentytwentyfour/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in D:\xampp\htdocs\test\wp-content\themes\twentytwentyfour\patterns\page-newsletter-landing.php:20_Stack trace:_#0 {main}_  thrown in <b>D:\xampp\htdocs\test\wp-content\themes\twentytwentyfour\patterns\page-newsletter-landing.php</b> on line <b>20</b><br />"></figure>
 </div>
 </div>
